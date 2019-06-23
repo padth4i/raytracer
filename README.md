@@ -4,8 +4,8 @@ A simple ray tracer written in C++
 
 ## Status
 - [x] Code
-- [] Rendered images
-- [] Documentation
+- [ ] Rendered images
+- [ ] Documentation
 
 ## Usage
 Simply compile the code and open the generated file (.ppm format)
