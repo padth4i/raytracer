@@ -4,7 +4,7 @@ A simple ray tracer written in C++
 
 ## Status
 - [x] Code
-- [ ] Rendered images
+- [x] Rendered images
 - [ ] Documentation
 
 ## Usage
